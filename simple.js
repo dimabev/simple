@@ -1,3 +1,5 @@
+<html>
+<body>         
 Hello <input id=*message* />
 
 <script>
@@ -6,3 +8,6 @@ Hello <input id=*message* />
                  window.alert(messageInput.value);
          }, 4000);
 </script>
+
+</body>
+</html>
